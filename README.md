@@ -1,7 +1,9 @@
 It needs a .env file with:
 
 CLIENT_ID = "CLIENT ID HERE"
+
 CLIENT_SECRET = "CLIENT SECRET HERE"
+
 
 It is also necessary to be logged onm youtube on Firefox
 
